@@ -4,14 +4,15 @@ body {
 	margin: 0 auto;
 }
 .homePage {
-	background: #222222;
+	background: #DE49C4;
 }
 .container {
 	width: 960px;
 	margin: 0 auto;
 }
 .header {
-	background: #AAAAAA;
+	font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
+	background: #DE49C4;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
